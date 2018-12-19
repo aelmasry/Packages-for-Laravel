@@ -1,7 +1,7 @@
 <h1> Packages for Laravel </h1>
 
-<strong>1. Laravel Migrations Generator: Automatically generate your migrations from an existing database schema. </strong>
+<h4> 1. Laravel Migrations Generator: Automatically generate your migrations from an existing database schema. </h4>
 https://github.com/xethron/migrations-generator
 
-<strong>2. Laravel CRUD Generator </strong>
+<h4> 2. Laravel CRUD Generator </h4>
 https://github.com/appzcoder/crud-generator
